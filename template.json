@@ -6,6 +6,7 @@
         "boot_wait": "5s",
         "guest_additions_mode": "attach",
         "guest_os_type": "Linux_64",
+        "guest_additions_url": "http://download.virtualbox.org/virtualbox/4.3.26/VBoxGuestAdditions_4.3.26.iso",
         "ssh_username": "docker",
         "ssh_password": "tcuser",
         "shutdown_command": "sudo poweroff"
